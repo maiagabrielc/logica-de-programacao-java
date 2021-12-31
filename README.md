@@ -33,10 +33,10 @@
 - [x] Aula 29 — While pt 02
 - [x] Aula 30 — While pt 03
 - [x] Aula 31 — While pt 04
-- [ ] Aula 32 — Do-While
-- [ ] Aula 33 — For pt 01
-- [ ] Aula 34 — For pt 02
-- [ ] Aula 35 — For pt 03
+- [x] Aula 32 — Do-While pt 05
+- [x] Aula 33 — For pt 01
+- [x] Aula 34 — For pt 02
+- [x] Aula 35 — For pt 03
 - [ ] Aula 36 — Arrays pt 01
 - [ ] Aula 37 — Arrays pt 02
 - [ ] Aula 38 — Arrays pt 03

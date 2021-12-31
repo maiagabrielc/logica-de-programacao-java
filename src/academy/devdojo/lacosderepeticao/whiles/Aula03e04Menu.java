@@ -2,7 +2,7 @@ package academy.devdojo.lacosderepeticao.whiles;
 
 import java.util.Scanner;
 
-public class Aula03Menu {
+public class Aula03e04Menu {
     public static void main(String[] args) {
         Scanner keyboard = new Scanner(System.in);
         System.out.println("Escolha a opção desejada: ");
@@ -34,6 +34,7 @@ public class Aula03Menu {
             }
             if (counter == 3) {
                 System.out.println("Obrigado por usar nossos serviços!");
+                break;
             } else if (counter == 2) {
                 System.out.printf("%nO seu salário foi acrescido de %.2f%n", deposit);
                 System.out.printf("%n1 - Calcular Imposto%n2 - Depositar Salário%n3 - Sair%n%n");
