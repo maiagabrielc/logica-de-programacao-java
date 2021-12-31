@@ -27,8 +27,8 @@
 - [x] Aula 23 — Controle de fluxo if-else pt 10
 - [x] Aula 24 — Controle de fluxo if-else pt 11
 - [x] Aula 25 — Estruturando o código em pacotes
-- [ ] Aula 26 — Switch case pt 01
-- [ ] Aula 27 — Switch case pt 02
+- [x] Aula 26 — Switch case pt 01
+- [x] Aula 27 — Switch case pt 02
 - [ ] Aula 28 — While pt 01
 - [ ] Aula 29 — While pt 02
 - [ ] Aula 30 — While pt 03
