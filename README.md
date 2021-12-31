@@ -29,10 +29,10 @@
 - [x] Aula 25 — Estruturando o código em pacotes
 - [x] Aula 26 — Switch case pt 01
 - [x] Aula 27 — Switch case pt 02
-- [ ] Aula 28 — While pt 01
-- [ ] Aula 29 — While pt 02
-- [ ] Aula 30 — While pt 03
-- [ ] Aula 31 — While pt 04
+- [x] Aula 28 — While pt 01
+- [x] Aula 29 — While pt 02
+- [x] Aula 30 — While pt 03
+- [x] Aula 31 — While pt 04
 - [ ] Aula 32 — Do-While
 - [ ] Aula 33 — For pt 01
 - [ ] Aula 34 — For pt 02
