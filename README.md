@@ -37,10 +37,10 @@
 - [x] Aula 33 — For pt 01
 - [x] Aula 34 — For pt 02
 - [x] Aula 35 — For pt 03
-- [ ] Aula 36 — Arrays pt 01
-- [ ] Aula 37 — Arrays pt 02
-- [ ] Aula 38 — Arrays pt 03
-- [ ] Aula 39 — Arrays pt 04
+- [x] Aula 36 — Arrays pt 01
+- [x] Aula 37 — Arrays pt 02
+- [x] Aula 38 — Arrays pt 03
+- [x] Aula 39 — Arrays pt 04
 - [ ] Aula 40 — Arrays Multidimensionais pt 01
 - [ ] Aula 41 — Arrays Multidimensionais pt 02
 - [ ] Aula 42 — Arrays Multidimensionais pt 03
