@@ -41,7 +41,7 @@
 - [x] Aula 37 — Arrays pt 02
 - [x] Aula 38 — Arrays pt 03
 - [x] Aula 39 — Arrays pt 04
-- [ ] Aula 40 — Arrays Multidimensionais pt 01
-- [ ] Aula 41 — Arrays Multidimensionais pt 02
-- [ ] Aula 42 — Arrays Multidimensionais pt 03
-- [ ] Aula 43 — Acabou! E agora?
+- [x] Aula 40 — Arrays Multidimensionais pt 01
+- [x] Aula 41 — Arrays Multidimensionais pt 02
+- [x] Aula 42 — Arrays Multidimensionais pt 03
+- [x] Aula 43 — Acabou! E agora?

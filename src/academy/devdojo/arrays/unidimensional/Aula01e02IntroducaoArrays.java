@@ -1,4 +1,4 @@
-package academy.devdojo.arrays;
+package academy.devdojo.arrays.unidimensional;
 
 public class Aula01e02IntroducaoArrays {
     public static void main(String[] args) {
